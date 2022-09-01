@@ -4,4 +4,4 @@ NPM     : 2106751083
 
 Kelas   : C
 
-Hobi : Belajar
+Hobi : Main Bola
