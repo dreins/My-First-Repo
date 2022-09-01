@@ -4,4 +4,4 @@ NPM     : 2106751083
 
 Kelas   : C
 
-Hobi : Main Bola
+Hobi : Main Catur
